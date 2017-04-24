@@ -16,3 +16,5 @@ github_username: lixiao258
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-cayman
